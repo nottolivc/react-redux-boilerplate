@@ -1,0 +1,15 @@
+.App {
+  width: 80%;
+  margin: auto;
+}
+
+header {
+  background-color: #222;
+  height: 160px;
+  padding: 20px;
+  color: aqua;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
