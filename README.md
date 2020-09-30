@@ -1,4 +1,4 @@
-# Redux Crash Course
+# React Redux Template (Class Components)
 
 > Simple boiler plate React to fetch/create posts using Redux with store/actions/reducers
 
